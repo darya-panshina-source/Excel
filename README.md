@@ -19,5 +19,7 @@
 \
 **Файл "2.Marketing_campaign_Analysis":** Сравнительный анализ длительности транзакций, Тестирование гипотезы с уменьшением скидки внутри каждого бина, расчет потенциальных показателей\
 \
-**Дашборд в Google Sheets**, позволяющий увидеть динамику в разрезе по ТТ, валютам и минимальной/максимальной сумме покупки: (https://docs.google.com/spreadsheets/d/1-kDol0LqwEwBdeqcmpO_O1nbA1b4zWnPOxqM0zpXlak/edit?gid=1678241372#gid=1678241372)
+**Дашборд в Google Sheets**, позволяющий увидеть динамику в разрезе по ТТ, валютам и минимальной/максимальной сумме покупки: (https://docs.google.com/spreadsheets/d/1-kDol0LqwEwBdeqcmpO_O1nbA1b4zWnPOxqM0zpXlak/edit?gid=1678241372#gid=1678241372)\
+\
+**Файл "Project_Presentation_Excel":** Презентация результатов проекта в формате PowerPoint 
 
